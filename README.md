@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bristi Mahata</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.behance.net/gallery/116770475/Animated-illustrations">
+<img align="right" alt="coding" width="400" src="601014116770475.6068beff4640a">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bristimahata&label=Profile%20views&color=0e75b6&style=flat" alt="bristimahata" /> </p>
 
@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bristimahata&show_icons=true&locale=en" alt="bristimahata" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bristimahata&" alt="bristimahata" /></p>
+
+
